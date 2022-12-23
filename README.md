@@ -62,7 +62,7 @@ go get github.com/go-redis/redis/v8
 If you are using **Redis 7**, install go-redis/**v9**:
 
 ```shell
-go get github.com/go-redis/redis/v9
+go get github.com/ghnexpress/redis/v9
 ```
 
 ## Quickstart

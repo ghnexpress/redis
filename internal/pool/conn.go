@@ -7,7 +7,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/go-redis/redis/v9/internal/proto"
+	"github.com/ghnexpress/redis/v9/internal/proto"
 )
 
 var noDeadline = time.Time{}

@@ -1,5 +1,5 @@
-//go:build appengine
-// +build appengine
+//go:build !appengine
+// +build !appengine
 
 package util
 
